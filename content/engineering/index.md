@@ -83,7 +83,7 @@
 - [Equilibrium](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 20 videos by Michael van Biezen on Mechanical Engineering Equilibrium.
 
 ## Interactive tools
-
+[Algodoo](http://www.algodoo.com/) - Algodoo gives you the opportunity to play with physics. Use your own hands and simple drawing tools to design, construct and explore the world of physics.
 ## Talks
 - [The Art of Engineering](https://archive.org/details/podcast_businessleadership-video_the-art-engineering_1000084846101) - [James Dyson](https://en.wikipedia.org/wiki/James_Dyson) talks about engineering and design.
 - [Inspiring the next generation of female engineers](https://youtu.be/FEeTLopLkEo) - Debbie Sterling talks about her inner calling for engineering and eventually founding GoldieBlox.
