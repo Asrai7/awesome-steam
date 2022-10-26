@@ -83,7 +83,10 @@
 - [Equilibrium](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUjkEEXJoC0mx8mxTlfqpCn) - Playlist of 20 videos by Michael van Biezen on Mechanical Engineering Equilibrium.
 
 ## Interactive tools
-
+- [TinkerCAD](https://www.tinkercad.com/) - Browser-based 3d modelling and circuit design presented by Autodesk.
+- [Womp3D](https://www.womp3d.com/) - Free soft-body browser based 3d modelling tool. Currently in Alpha.
+- [picoCAD](https://johanpeitz.itch.io/picocad) - picoCAD is a program to build and texture lowpoly 3D models. Where many programs for modelling and texturing are bloated and overly complicated, picoCAD aims to make it fun, easy, and accessible by focusing on the bare essentials. It is built on the PICO-8 platform and comes rich with constraints. Experiment to find your own workflow and anything is possible!
+- [Spline](https://spline.design/) - A design tool for 3D web browser experiences.
 ## Talks
 - [The Art of Engineering](https://archive.org/details/podcast_businessleadership-video_the-art-engineering_1000084846101) - [James Dyson](https://en.wikipedia.org/wiki/James_Dyson) talks about engineering and design.
 - [Inspiring the next generation of female engineers](https://youtu.be/FEeTLopLkEo) - Debbie Sterling talks about her inner calling for engineering and eventually founding GoldieBlox.
