@@ -36,7 +36,7 @@
 
 
 ## Interactive tools
-
+- [JustSketchMe: An Interactive Posing Tool for Artists](https://app.justsketch.me/) -
 ## Talks
 - [The first secret of great design](https://youtu.be/9uOMectkCCs) - TED Talk by Tony Fadell
 - [The Art of Engineering](https://archive.org/details/podcast_businessleadership-video_the-art-engineering_1000084846101) - [James Dyson](https://en.wikipedia.org/wiki/James_Dyson) (Inventor and Founder of Dyson, Ltd.) talks about engineering and design
